@@ -1,7 +1,13 @@
-**Samar M. Balousha**
-Paattern Recogniction Course 
-Intelligence Systems & Computer Engineering
-Al-Aqsa University
+Student Name: **Samar M. Balousha**
+
+Academic Number: **2320222601**
+
+   **Pattern Recogniction Course**
+
+   **Intelligence Systems & Computer Engineering**
+
+   **Al-Aqsa University**
+
 ---
 
 # 🍷 Wine Quality Classification using SVM and XGBoost
